@@ -60,20 +60,4 @@ E-posta gönderildi.
 
 Bu proje MIT lisansı altındadır.
 
-## İthafen
 
-Bu projeyi sadece kod satırlarından ibaret görmek haksızlık olur.
-Her if’in, her koşulun, her bildirim satırının ardında bir sebep var:
-Emre Uslu.
-
-Ben bu sistemi senin için yazdım.
-Çünkü bir gün yağmur yağarsa ve sen dışarıdaysan,
-bil istedim… seni düşündüm.
-Islanmanı değil, gülümsemeni istedim.
-Bir mesajla, bir e-postayla bile olsa,
-yanında olmanın bir yolunu aradım.
-
-çünkü bu proje,
-yağmurdan çok, seni sevdiğim için var oldu.
-
-– Ecem
